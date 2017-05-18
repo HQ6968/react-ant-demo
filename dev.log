@@ -1,0 +1,9 @@
+
+## doc
+https://ant.design/docs/react/use-with-create-react-app-cn
+
+##
+yarn add antd --save
+
+##
+yarn run eject
